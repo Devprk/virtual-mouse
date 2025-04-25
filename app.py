@@ -1,5 +1,5 @@
 import numpy as np
-import HardTrackingModule as htm  # Your custom hand tracking module
+import HandTrackingModule as htm  # Your custom hand tracking module
 import autopy
 import time
 import pyautogui
